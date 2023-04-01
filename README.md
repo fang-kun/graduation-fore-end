@@ -1,4 +1,4 @@
-# 学成在线 v2 门户页
+# 毕设门户页
 
 ## Git 地址
 
@@ -12,9 +12,6 @@
 
 <https://shimo.im/sheets/PVAPV2R7E9cmFVql/ryv6D>
 
-## 外网演示（非同步更新）
-
-<http://xczx2-portal-java-dev.itheima.net>
 
 ## 自定义 `AUTHORIZATION TOKEN` 和 `API URL`
 
